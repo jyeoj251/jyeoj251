@@ -1,11 +1,10 @@
-## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
 <!--
 **jyeoj251/jyeoj251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
