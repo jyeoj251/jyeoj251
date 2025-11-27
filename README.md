@@ -1,10 +1,17 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=250&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
+
+[![EcoAI](https://img.shields.io/badge/EcoAI%20Lab-Undergraduate%20Researcher-4CAF50?style=for-the-badge)]()
+
+## 👋 Introduction
+- 한밭대학교 컴퓨터공학과
+- EcoAI Lab 학부연구생
+- Reinforcement Learning · Network Optimization 연구 중
+
 <!--
 **jyeoj251/jyeoj251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
