@@ -48,7 +48,7 @@
 
 | **Date** | **Title** | **Venue** | **Role** |
 |:---------:|:----------|:---------:|:---------:|
-| 2026.01 | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries (Student Abstract) | AAAAI 2026 | **Co-author** |
+| 2026.01 | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries (Student Abstract) | AAAI 2026 | **Co-author** |
 | 2026.03 | Decentralized Stabilization of Smart Grids against Deception Cyber-attack via Active Disturbance Rejection Control | IEEE Access | **Co-author** |
 | 2026.04 | A Quantum-Resistant and AI-Resilient Real-Time Keystroke Protection Framework with Blockchain-Backed Decentralized Identity | IEEE Access | **First Author** |
 | 2026.08 | DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes | IJCAI 2026 (AI4Tech Special Track) | **First Author** |
@@ -90,3 +90,4 @@
 | 2025.12 | 2025년 제14회 정보기술대학 작품전시전 **학장상** | 국립한밭대학교 |
 | 2025.11 | 2025년도 추계종합학술발표회 **우수논문상(공저자)** | 한국통신학회 |
 | 2026.06 | 2026년도 동계종합학술발표회 **우수논문상(주저자)** | 한국통신학회 |
+| 2026.11 | 2025년도 하계종합학술발표회 **우수논문상(공저자)** | 한국통신학회 |
